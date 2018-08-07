@@ -6,4 +6,4 @@ end
 say_hello("Erika!")
 
 def Hello(name = "Erika")
-  puts "Hello"
+  puts "Hello", 
